@@ -93,23 +93,32 @@
 ![image](https://github.com/DevadarshiniJayamurugan/ComputerVision/assets/100745306/0f4e3ef1-a771-4b94-b7da-b37f03c9a179)
 
 ## Expt 31:
+![image](https://github.com/DevadarshiniJayamurugan/ComputerVision/assets/100745306/cd33af3e-05e4-4e73-9f30-e2b07b036db1)
 
 ## Expt 32:
+![image](https://github.com/DevadarshiniJayamurugan/ComputerVision/assets/100745306/287afcf7-1923-4014-afbf-6e54a496832b)
 
 ## Expt 33:
+![image](https://github.com/DevadarshiniJayamurugan/ComputerVision/assets/100745306/0a7f09d2-e595-437a-9b87-b2440fbfb899)
 
 ## Expt 34:
+![image](https://github.com/DevadarshiniJayamurugan/ComputerVision/assets/100745306/56adf08d-3b51-456c-9ec7-a83ca3425f02)
 
 ## Expt 35:
+![image](https://github.com/DevadarshiniJayamurugan/ComputerVision/assets/100745306/99d7af1b-640b-4e72-be2f-1f81b8871f9f)
 
 ## Expt 36:
-
+![image](https://github.com/DevadarshiniJayamurugan/ComputerVision/assets/100745306/d06e9a58-8163-45b9-88d5-69e2f319529a)
 ## Expt 37:
+![image](https://github.com/DevadarshiniJayamurugan/ComputerVision/assets/100745306/4e7b79b3-197e-451e-bf61-8666de887f75)
 
 ## Expt 38:
+![image](https://github.com/DevadarshiniJayamurugan/ComputerVision/assets/100745306/dc2a2edc-4658-4a99-b6a6-25afb22a3b24)
 
 ## Expt 39:
+![image](https://github.com/DevadarshiniJayamurugan/ComputerVision/assets/100745306/88ed6b2f-a93a-4e72-b205-10457b8a78f8)
 
 ## Expt 40:
+![image](https://github.com/DevadarshiniJayamurugan/ComputerVision/assets/100745306/2d53d9d8-05c6-4332-95e9-8e25a8d93e91)
 
 _______________________________________________________________________________________________________________________________________________________________________
